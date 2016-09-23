@@ -11,7 +11,8 @@
 		<table border>
 		
 	
-		<?php //Ejemplo formularios - tablas
+		<?php 
+		//recuperamos las variables de la pag anterior
 			       $fila = $_GET['fila'];
 			       $colu = $_GET['colu'];
 			      
